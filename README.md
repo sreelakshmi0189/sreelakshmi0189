@@ -18,7 +18,7 @@ Welcome to my GitHub page! 🎉
 
 
 ## Full Stack Development
-| **Python**  | **Django**  | **MySQL** | **HTML CSS**  | **Angular** 👀 | **JavaScript** |
+| **Python**  | **Django**  | **MySQL** | **HTML CSS**  | **Angular** 👀 | **JavaScript** | **Bootstrap** |
 
 
 ## IDEs
