@@ -14,7 +14,7 @@ Welcome to my GitHub page! 🎉
 ## Software Development | Python Full Stack Development
 
 # Languages
-| [Python](https://www.python.org/) 🐍 | [C](https://en.wikipedia.org/wiki/C_(programming_language)) 🅲 | [C++](https://en.wikipedia.org/wiki/C%2B%2B) 🅲🅲 |
+| [Python](https://www.python.org/) 🐍 | [C](https://en.wikipedia.org/wiki/C_(programming_language)) | [C++](https://en.wikipedia.org/wiki/C%2B%2B) |
 
 
 ## Full Stack Development
